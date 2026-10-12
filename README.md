@@ -1,3 +1,5 @@
+**한국어** | [English](README.en.md)
+
 # Wastrium
 
 모션캡처와 대형 스크린을 활용한 분리수거 XR 게임입니다. 해양오염에 대한 피드백을 게임으로 전달하며, 이름은 Waste와 Aquarium을 결합한 것입니다.
